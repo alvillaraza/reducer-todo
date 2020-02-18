@@ -1,0 +1,12 @@
+.not-completed-check {
+  display: none;
+}
+
+.completed-check {
+  display: block;
+}
+
+.todo-list-item {
+  display: flex;
+  justify-content: center;
+}
